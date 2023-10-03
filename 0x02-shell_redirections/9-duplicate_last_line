@@ -1,0 +1,2 @@
+#!/bin/basg
+tail -n 1 iacta >> iacta
