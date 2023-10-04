@@ -1,2 +1,2 @@
 #!/bin/bash
-echo help MyUser
+echo hello MyUser
